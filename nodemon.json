@@ -1,0 +1,7 @@
+{
+  "env":{
+    "MONGO_PW":"12345678",
+    "PORT":"3000",
+    "JWT_KEY":"secret"
+  }
+}
