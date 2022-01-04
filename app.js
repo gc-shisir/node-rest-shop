@@ -71,4 +71,5 @@ app.use((error, req, res, next) => {
 
 module.exports = app;
 
-// completed video 7
+// completed video 13
+// error: upload image in add product
